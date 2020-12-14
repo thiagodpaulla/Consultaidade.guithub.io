@@ -9,6 +9,7 @@
  https://thiagodpaulla.github.io/Consultaidade.guithub.io/.
  
 Stretch a little more and, know a little more than I've been doing:
+
 https://thiagodpaulla.github.io/
 
 
