@@ -1,32 +1,32 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
 
-# Olá e seja bem vindo ao  meu repositório
-## Conheça o Consulta Idade
+# Hello and welcome to my repository
+## Meet consult the age
+
 ![](https://github.com/thiagodpaulla/Consultaidade.guithub.io/blob/main/consulta.gif)
 
-## Fique a vontade para interagir com o projeto no link:
+## Feel free to interact with the project at the link:
  https://thiagodpaulla.github.io/Consultaidade.guithub.io/.
  
-Estique mais um pouquinho e conheça um pouco mais do que ando fazendo:
+Stretch a little more and, know a little more than I've been doing:
 https://thiagodpaulla.github.io/
 
 
-### Entenda um pouco mais sobre como foi criado.
+### Understand a little more about how it was created.
 
-<!--ts-->
- * [Projeto](#projeto)  
- * [Tecnologias](#tecnologias) 
- * [Licença](#licença) 
- <!--te-->
+ * [Project](#project)
+ * [Technologies](#technologies)
+ * [License](#license)
 
-# Projeto
+
+# Project
 💻
-Este é um estudo de Java Script integrado a HTML5 e CSS que permite consultar a idade de uma pessoa e receber uma imagem simbolica vinculadas a esta idade, crianças, jovens, adultos e idosos de acordo com generos masculino e feminino. aqui foi possivel exercitar uma series de comandos basicos do Java Script, reforçando o conhecimentos, basicos e fundamentais da linguem.
+This is a study of Java Script integrated with HTML5 and CSS that allows to consult the age of a person and receive a symbolic image linked to that age, children, youth, adults and elderly according to male and female genres. here it was possible to exercise a series of basic Java Script commands, reinforcing the knowledge, basics and fundamentals of the language.
 
 
-# Tecnologias
+# Technologies
 
-🚀 O projeto foi desenvolvido usando as seguintes tecnologias
+🚀 The project was developed using the following technologies
 
 
 ➜ JavaScript
@@ -36,5 +36,5 @@ Este é um estudo de Java Script integrado a HTML5 e CSS que permite consultar a
 ➜ CSS
 
 
-# Licença
-📂 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
+# License
+📂 Distributed under the MIT license. See LICENSE for more information.
