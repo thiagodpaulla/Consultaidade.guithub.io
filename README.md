@@ -2,7 +2,7 @@
 
 # Olá e seja bem vindo ao  meu repositório
 ## Conheça o Consulta Idade
-![](http.gif)
+![](https://github.com/thiagodpaulla/Consultaidade.guithub.io/blob/main/consulta.gif)
 
 ## Fique a vontade para interagir com o projeto no link:
  https://thiagodpaulla.github.io/Consultaidade.guithub.io/.
